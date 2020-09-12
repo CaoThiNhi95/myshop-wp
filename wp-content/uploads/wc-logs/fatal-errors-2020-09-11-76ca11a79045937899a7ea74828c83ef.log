@@ -1,0 +1,30 @@
+2020-09-11T09:27:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 10006760 bytes) in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2020-09-11T09:59:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 10075752 bytes) in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2020-09-11T15:06:07+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:06:12+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:06:12+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:21+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:21+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:27+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:27+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:33+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:37+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:11:37+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:12:06+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:12:11+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
+2020-09-11T15:12:11+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in /Applications/MAMP/htdocs/myshopwp/wp-content/plugins/sg-cachepress/core/Activator/Activator.php on line 20
+
